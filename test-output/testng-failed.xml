@@ -7,13 +7,13 @@
   <test thread-count="5" name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.clearTrip.testCases.TC_LoginTest_001">
+      <class name="com.clearTrip.testCases.TC_VerifyMenuList_002">
         <methods>
+          <include name="verifyMainMenuTexts"/>
           <include name="setup"/>
-          <include name="loginTest"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.clearTrip.testCases.TC_LoginTest_001 -->
+      </class> <!-- com.clearTrip.testCases.TC_VerifyMenuList_002 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [ClearTripv1] -->

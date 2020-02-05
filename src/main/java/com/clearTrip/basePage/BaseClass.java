@@ -60,8 +60,9 @@ public class BaseClass {
 	
 		}
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-		driver.get(baseUrl);
 		driver.manage().window().maximize();
+		driver.get(baseUrl);
+		
 		if(br.equals("ie")){
 		//driver.findElement(By.linkText("More information")).click();
 

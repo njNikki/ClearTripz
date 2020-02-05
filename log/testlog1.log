@@ -192,3 +192,133 @@
 2020-02-05 01:00:25,953 [main] INFO ClearTrip - Username is entered
 2020-02-05 01:00:26,053 [main] INFO ClearTrip - Password is entered
 2020-02-05 01:00:41,538 [main] INFO ClearTrip - TestCase passed
+2020-02-05 22:52:08,350 [main] INFO ClearTrip - Url is opened
+2020-02-05 22:52:15,006 [main] INFO ClearTrip - Username is entered
+2020-02-05 22:52:15,107 [main] INFO ClearTrip - Password is entered
+2020-02-05 22:53:19,841 [main] INFO ClearTrip - Url is opened
+2020-02-05 22:53:26,876 [main] INFO ClearTrip - Username is entered
+2020-02-05 22:53:26,987 [main] INFO ClearTrip - Password is entered
+2020-02-05 22:53:44,733 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:11:26,041 [main] INFO ClearTrip - Url is opened
+2020-02-05 23:11:33,002 [main] INFO ClearTrip - Username is entered
+2020-02-05 23:11:33,105 [main] INFO ClearTrip - Password is entered
+2020-02-05 23:11:33,351 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:11:33,386 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:20:22,849 [main] INFO ClearTrip - Url is opened
+2020-02-05 23:20:22,893 [main] INFO ClearTrip - Title is verified
+2020-02-05 23:20:22,894 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:22:34,946 [main] INFO ClearTrip - Url is opened
+2020-02-05 23:22:35,000 [main] INFO ClearTrip - Title is verified
+2020-02-05 23:22:35,000 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:25:42,584 [main] INFO ClearTrip - Url is opened
+2020-02-05 23:25:50,438 [main] INFO ClearTrip - Username is entered
+2020-02-05 23:25:50,535 [main] INFO ClearTrip - Password is entered
+2020-02-05 23:26:08,143 [main] INFO ClearTrip - Title is verified
+2020-02-05 23:26:08,144 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:27:57,794 [main] INFO ClearTrip - Url is opened
+2020-02-05 23:28:05,452 [main] INFO ClearTrip - Username is entered
+2020-02-05 23:28:05,560 [main] INFO ClearTrip - Password is entered
+2020-02-05 23:28:05,797 [main] INFO ClearTrip - User logged in successfully
+2020-02-05 23:28:22,888 [main] INFO ClearTrip - Signout successful
+2020-02-05 23:28:22,968 [main] INFO ClearTrip - Title is verified
+2020-02-05 23:28:22,969 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:31:46,780 [main] INFO ClearTrip - Url is opened
+2020-02-05 23:31:53,325 [main] INFO ClearTrip - Username is entered
+2020-02-05 23:31:53,423 [main] INFO ClearTrip - Password is entered
+2020-02-05 23:31:53,685 [main] INFO ClearTrip - User logged in successfully
+2020-02-05 23:31:53,741 [main] INFO ClearTrip - Title is verified
+2020-02-05 23:31:53,742 [main] INFO ClearTrip - TestCase passed
+2020-02-05 23:32:05,922 [main] INFO ClearTrip - Signout successful
+2020-02-06 00:14:40,239 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:22:47,132 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:22:53,504 [main] INFO ClearTrip - Username is entered
+2020-02-06 00:22:53,623 [main] INFO ClearTrip - Password is entered
+2020-02-06 00:22:53,904 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 00:23:04,855 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:23:05,238 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 00:25:30,195 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:25:36,572 [main] INFO ClearTrip - Username is entered
+2020-02-06 00:25:36,689 [main] INFO ClearTrip - Password is entered
+2020-02-06 00:25:36,920 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 00:25:45,272 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:25:45,854 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 00:46:17,942 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:46:25,018 [main] INFO ClearTrip - Username is entered
+2020-02-06 00:46:25,128 [main] INFO ClearTrip - Password is entered
+2020-02-06 00:46:25,608 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 00:46:32,684 [main] INFO ClearTrip - Url is opened
+2020-02-06 00:46:33,051 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:23:03,859 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:23:03,960 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:23:04,670 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:23:04,671 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:23:14,395 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:23:30,893 [main] INFO ClearTrip - Username is entered
+2020-02-06 01:23:31,018 [main] INFO ClearTrip - Password is entered
+2020-02-06 01:23:31,277 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 01:23:31,295 [main] INFO ClearTrip - Title is verified
+2020-02-06 01:23:31,295 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:25:18,530 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:25:18,639 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:25:19,359 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:25:19,360 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:26:40,911 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:26:40,968 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:26:41,349 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:26:41,350 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:26:49,039 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:27:05,523 [main] INFO ClearTrip - Username is entered
+2020-02-06 01:27:05,624 [main] INFO ClearTrip - Password is entered
+2020-02-06 01:27:05,909 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 01:27:05,931 [main] INFO ClearTrip - Title is verified
+2020-02-06 01:27:05,932 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:29:01,546 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:29:01,692 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:29:02,306 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:29:02,307 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:29:12,017 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:29:38,152 [main] INFO ClearTrip - Username is entered
+2020-02-06 01:29:38,252 [main] INFO ClearTrip - Password is entered
+2020-02-06 01:29:38,487 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 01:29:38,503 [main] INFO ClearTrip - Title is verified
+2020-02-06 01:29:38,503 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:34:01,690 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:34:01,748 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:34:02,189 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:34:02,190 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:34:10,590 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:34:32,172 [main] INFO ClearTrip - Username is entered
+2020-02-06 01:34:32,275 [main] INFO ClearTrip - Password is entered
+2020-02-06 01:34:32,710 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 01:34:32,724 [main] INFO ClearTrip - Title is verified
+2020-02-06 01:34:32,725 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:37:40,500 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:37:40,593 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:37:41,132 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:37:41,132 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:39:29,888 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:39:29,943 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:39:30,333 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:39:30,333 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:41:56,694 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:42:02,956 [main] INFO ClearTrip - Username is entered
+2020-02-06 01:42:08,059 [main] INFO ClearTrip - Password is entered
+2020-02-06 01:42:08,311 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 01:42:13,350 [main] INFO ClearTrip - Title is verified
+2020-02-06 01:42:13,351 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:42:30,255 [main] INFO ClearTrip - Signout successful
+2020-02-06 01:43:42,701 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:43:42,757 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:43:43,177 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:43:43,177 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:45:35,088 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:45:42,231 [main] INFO ClearTrip - Username is entered
+2020-02-06 01:45:47,345 [main] INFO ClearTrip - Password is entered
+2020-02-06 01:45:47,596 [main] INFO ClearTrip - User logged in successfully
+2020-02-06 01:45:52,637 [main] INFO ClearTrip - Title is verified
+2020-02-06 01:45:52,638 [main] INFO ClearTrip - TestCase passed
+2020-02-06 01:46:06,629 [main] INFO ClearTrip - Signout successful
+2020-02-06 01:46:14,825 [main] INFO ClearTrip - Url is opened
+2020-02-06 01:46:14,833 [main] INFO ClearTrip - Main menu lists displayed on console
+2020-02-06 01:46:15,379 [main] INFO ClearTrip - Left main menus text spellings are verified. TestCase Passed
+2020-02-06 01:46:15,379 [main] INFO ClearTrip - TestCase passed
